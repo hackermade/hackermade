@@ -1,16 +1,22 @@
-### Hi there 👋
+## whoami
+Hey, my name is ARBI (pronounced RB) and i work as a full-stack software developer.
 
-<!--
-**hackermade/hackermade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages, Frameworks & Tools
+[![](https://img.shields.io/badge/-Ruby-332B40?style=for-the-badge&logo=ruby)]()
+[![](https://img.shields.io/badge/-RubyGems-332B40?style=for-the-badge&logo=rubygems)]()
+[![](https://img.shields.io/badge/-RubyOnRails-332B40?style=for-the-badge&logo=rubyonrails)]()
+[![](https://img.shields.io/badge/jekyll-332B40?style=for-the-badge&logo=jekyll)]()
+[![](https://img.shields.io/badge/-html5-332B40?style=for-the-badge&logo=html5)]()
+[![](https://img.shields.io/badge/-css3-332B40?style=for-the-badge&logo=css3)]()
+[![](https://img.shields.io/badge/sass-332B40?style=for-the-badge&logo=sass)]()
+[![](https://img.shields.io/badge/-bulma-332B40?style=for-the-badge&logo=bulma)]()
+[![](https://img.shields.io/badge/-javascript-332B40?style=for-the-badge&logo=javascript)]()
+[![](https://img.shields.io/badge/-npm-332B40?style=for-the-badge&logo=npm)]()
+[![](https://img.shields.io/badge/-react-332B40?style=for-the-badge&logo=react)]()
+[![](https://img.shields.io/badge/-postgresql-332B40?style=for-the-badge&logo=postgresql)]()
+[![](https://img.shields.io/badge/macos-332B40?style=for-the-badge&logo=macos)]()
+[![](https://img.shields.io/badge/firefox-332B40?style=for-the-badge&logo=firefox-browser)]()
+[![](https://img.shields.io/badge/-git-332B40?style=for-the-badge&logo=git)]()
+[![](https://img.shields.io/badge/httpie-332B40?style=for-the-badge&logo=httpie)]()
+[![](https://img.shields.io/badge/-vscode-332B40?style=for-the-badge&logo=visualstudiocode)]()
