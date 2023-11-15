@@ -1,8 +1,4 @@
-## whoami
-Hey, my name is ARBI (pronounced RB) and i work as a full-stack software developer.
-
-
-### Languages, Frameworks & Tools
+## Languages, Frameworks & Tools
 [![](https://img.shields.io/badge/-Ruby-332B40?style=for-the-badge&logo=ruby)]()
 [![](https://img.shields.io/badge/-RubyGems-332B40?style=for-the-badge&logo=rubygems)]()
 [![](https://img.shields.io/badge/-RubyOnRails-332B40?style=for-the-badge&logo=rubyonrails)]()
