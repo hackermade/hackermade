@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/-javascript-332B40?style=for-the-badge&logo=javascript)]()
 [![](https://img.shields.io/badge/-npm-332B40?style=for-the-badge&logo=npm)]()
 [![](https://img.shields.io/badge/-react-332B40?style=for-the-badge&logo=react)]()
-[![](https://img.shields.io/badge/-postgresql-332B40?style=for-the-badge&logo=postgresql)]()
+[![](https://img.shields.io/badge/-mysql-332B40?style=for-the-badge&logo=mysql)]()
 [![](https://img.shields.io/badge/macos-332B40?style=for-the-badge&logo=macos)]()
 [![](https://img.shields.io/badge/firefox-332B40?style=for-the-badge&logo=firefox-browser)]()
 [![](https://img.shields.io/badge/-git-332B40?style=for-the-badge&logo=git)]()
