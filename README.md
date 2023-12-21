@@ -11,7 +11,6 @@
 [![](https://img.shields.io/badge/-npm-332B40?style=for-the-badge&logo=npm)]()
 [![](https://img.shields.io/badge/-react-332B40?style=for-the-badge&logo=react)]()
 [![](https://img.shields.io/badge/-mysql-332B40?style=for-the-badge&logo=mysql)]()
-[![](https://img.shields.io/badge/macos-332B40?style=for-the-badge&logo=macos)]()
 [![](https://img.shields.io/badge/-git-332B40?style=for-the-badge&logo=git)]()
 [![](https://img.shields.io/badge/httpie-332B40?style=for-the-badge&logo=httpie)]()
 [![](https://img.shields.io/badge/-vscode-332B40?style=for-the-badge&logo=visualstudiocode)]()
