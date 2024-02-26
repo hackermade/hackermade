@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-html5-332B40?style=for-the-badge&logo=html5)]()
 [![](https://img.shields.io/badge/-css3-332B40?style=for-the-badge&logo=css3)]()
 [![](https://img.shields.io/badge/sass-332B40?style=for-the-badge&logo=sass)]()
-[![](https://img.shields.io/badge/-bulma-332B40?style=for-the-badge&logo=bulma)]()
+[![](https://img.shields.io/badge/-tailwind-332B40?style=for-the-badge&logo=tailwind)]()
 [![](https://img.shields.io/badge/-javascript-332B40?style=for-the-badge&logo=javascript)]()
 [![](https://img.shields.io/badge/-npm-332B40?style=for-the-badge&logo=npm)]()
 [![](https://img.shields.io/badge/-react-332B40?style=for-the-badge&logo=react)]()
