@@ -5,7 +5,6 @@
 [![](https://img.shields.io/badge/jekyll-332B40?style=for-the-badge&logo=jekyll)]()
 [![](https://img.shields.io/badge/-html5-332B40?style=for-the-badge&logo=html5)]()
 [![](https://img.shields.io/badge/-tailwindcss-332B40?style=for-the-badge&logo=tailwindcss)]()
-[![](https://img.shields.io/badge/-javascript-332B40?style=for-the-badge&logo=javascript)]()
 [![](https://img.shields.io/badge/-npm-332B40?style=for-the-badge&logo=npm)]()
 [![](https://img.shields.io/badge/-react-332B40?style=for-the-badge&logo=react)]()
 [![](https://img.shields.io/badge/-mysql-332B40?style=for-the-badge&logo=mysql)]()
